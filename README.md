@@ -18,8 +18,8 @@ culminating project that uses python 101 techniques
  - List major parts of your program (what the user can do or see).
    - The user is able to input a name (or last name) and gets input either whne that person has an appoiment or a message sayign there is no person of that name within the lists
      they are also allowed to make a new appoiment with the avialable days and times. With in the code there are lists that conntain avaibale days and times. but also a dicionary
-     with information about different paients. Key features are the define fucntions that simpies simple code, such as adding and removing information from lists. 
- - 
+     with information about different paients. Key features are the define fucntions that simpies simple code, such as adding and removing information from lists.
+      
 # Technical Challenges + Future Plans
 - What was hard to figure out? What do you wish you could add if you had more time or more experience?
   - figuring out whhere to start and how to simplfy certain codes. Despite it being a simple project and having a simple goal there is a lot of off the screen code reqired to it,
@@ -29,9 +29,9 @@ culminating project that uses python 101 techniques
   
 # Project Timeline
  - Briefly explain how you broke this project up across days, weeks, or months.
-  - The first few days I brainstormed on ideas of where to start seeing which one had more potential and which are actually doable in a timely manner. 
+   - The first few days I brainstormed on ideas of where to start seeing which one had more potential and which are actually doable in a timely manner. 
     Once I got an idea of where to start I began just coding on what came first in my mind, making sure the code works while typing it. After I finish the first half, I spend a day organizing the      code. Then continue to finish the whole codeThis was from the beginning of the unit 4 project. 
-  - Once I chose to use this code for this capstone. I looked through it to make sure everything worked along with seeing what I could add to make it less complicated.  In which I choose adding a      user-defined function. This allows some repetitive code to be not so written over and over. 
+   - Once I chose to use this code for this capstone. I looked through it to make sure everything worked along with seeing what I could add to make it less complicated.  In which I choose adding a      user-defined function. This allows some repetitive code to be not so written over and over. 
 
    
 # Tools and Resources Used
