@@ -29,8 +29,15 @@ culminating project that uses python 101 techniques
   
 # Project Timeline
  - Briefly explain how you broke this project up across days, weeks, or months.
-  - 
+  - The first few days I brainstormed on ideas of where to start seeing which one had more potential and which are actually doable in a timely manner. 
+    Once I got an idea of where to start I began just coding on what came first in my mind, making sure the code works while typing it. After I finish the first half, I spend a day organizing the      code. Then continue to finish the whole codeThis was from the beginning of the unit 4 project. 
+  - Once I chose to use this code for this capstone. I looked through it to make sure everything worked along with seeing what I could add to make it less complicated.  In which I choose adding a      user-defined function. This allows some repetitive code to be not so written over and over. 
+
    
 # Tools and Resources Used
 - Include websites, docs, videos, AI, etc.
   - techsmart
+  - Used my past prototype(Quick Connect) project as an influence which is where I got the idea to start CareToBe.
+  - AI to help me understand errors and some types of code
+
+
